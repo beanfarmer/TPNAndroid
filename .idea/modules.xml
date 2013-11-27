@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TPNAndroid/TPNAndroid.iml" filepath="$PROJECT_DIR$/TPNAndroid/TPNAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TPNAndroidProject.iml" filepath="$PROJECT_DIR$/TPNAndroidProject.iml" />
+    </modules>
+  </component>
+</project>
+
